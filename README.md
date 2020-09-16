@@ -1,4 +1,2 @@
 # NLP
-Text Classification
-credit@ Eduonix Learning Solutions
-https://www.youtube.com/watch?v=G4UVJoGFAv0
+Text Classification, Some changes are to be done, this will be back soon
