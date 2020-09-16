@@ -1,3 +1,3 @@
 # NLP
-Text Classification spam or not
+Text Classification
 credit- Eduonix Learning Solutions 
